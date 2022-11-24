@@ -8,3 +8,4 @@
 [STREETS OF RAGE REMAKE BENNUGD](https://github.com/vita-nuova/bounties/issues/36) - Solved on 04/10/21 (Total Bounty: 100$)<br>
 [Vita as USB Keyboard](https://github.com/vita-nuova/bounties/issues/74) - Solved on 29/01/22 (Total Bounty: 10$)<br>
 [The Ur-Quan Masters port for Vita](https://github.com/vita-nuova/bounties/issues/69) - Solved on 03/03/22 (Total Bounty: 30$)<br>
+[Dead Space Android port for PS Vita](https://github.com/vita-nuova/bounties/issues/32) - Solved on 29/10/22 (Total Bounty: 845$)<br>
